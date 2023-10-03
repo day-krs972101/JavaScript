@@ -1,1 +1,1 @@
-alert("daya")
+console.log("day a melhor")
